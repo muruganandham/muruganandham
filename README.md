@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=muruganandham&theme=react-dark&area=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=muruganandham&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/muruganandham)
 
 <br/>
